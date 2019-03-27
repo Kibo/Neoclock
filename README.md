@@ -14,4 +14,4 @@ Arduino hobby project.
   - [NeoPixel ring](https://www.adafruit.com/?q=NeoPixel%20Ring)
 
 ### Description
-- [Instructables](#)
+- [Instructables](https://www.instructables.com/id/NeoPixel-Clock-With-Alarm)
