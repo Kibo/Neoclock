@@ -1,4 +1,4 @@
-# Neopixel with alarm
+# Neopixel clock with alarm
 
 Arduino hobby project. 
 
